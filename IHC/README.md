@@ -14,14 +14,16 @@ Forneça alternativas de texto para qualquer conteúdo que não seja de texto pa
 ## Exemplo em que não se aplica:
 ![1 1-nao_aplica](https://user-images.githubusercontent.com/89146258/187183163-180ae65c-47fb-49d6-85e7-c7f1e897c394.png)
 
-##Diretriz 1.2 - Mídia baseada em tempo
+## Diretriz 1.2 - Mídia baseada em tempo
+
 Forneça alternativas para mídia baseada em tempo.
 
 ## Exemplo em que se aplica:
 
 ## Exemplo em que não se aplica:
 
-Diretriz 1.3 - Adaptável
+## Diretriz 1.3 - Adaptável
+
 Crie conteúdo que possa ser apresentado de diferentes formas (por exemplo, layout mais simples) sem perder informações ou estrutura.
 
 ## Exemplo em que se aplica:
