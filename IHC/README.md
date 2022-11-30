@@ -22,15 +22,22 @@ Forneça alternativas para mídia baseada em tempo.
 ![1 2 -aplica](https://user-images.githubusercontent.com/89146258/204673620-3cf18f20-939e-4d88-812f-cd222398fdf0.png)
 
 
-## Exemplo em que não se aplica:
-
-
 ## Diretriz 1.3 - Adaptável
 
 Crie conteúdo que possa ser apresentado de diferentes formas (por exemplo, layout mais simples) sem perder informações ou estrutura.
 
 ## Exemplo em que se aplica:
 ## Computador
+![1 3-aplica pc](https://user-images.githubusercontent.com/89146258/204676626-6ea0d1a5-2329-4878-b9b2-7f2682d46add.png)
+## Celular 
+![1 3-aplica cel](https://user-images.githubusercontent.com/89146258/204676667-5f7bddb5-f69e-46e1-b5f6-df3959d4d474.jpg)
+
+## Diretriz 4.1
+
+No conteúdo implementado usando linguagens de marcação, as mensagens de status podem ser determinadas programaticamente por meio de função ou propriedades, de modo que possam ser incorporadas ao usuário por tecnologias assistivas sem receber foco.
+
+## Exemplo em que se aplica:
+
+![4 1- aplica ](https://user-images.githubusercontent.com/89146258/204677264-5411e468-ca4f-4ff1-9c87-d8b9f9aacd55.png)
 
 
-## Exemplo em que não se aplica:
