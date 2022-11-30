@@ -30,9 +30,8 @@ Forneça alternativas para mídia baseada em tempo.
 Crie conteúdo que possa ser apresentado de diferentes formas (por exemplo, layout mais simples) sem perder informações ou estrutura.
 
 ## Exemplo em que se aplica:
-Computador
-![1 3-aplica pc](https://user-images.githubusercontent.com/89146258/204673826-517e99d0-ce70-4f22-9f59-7b2cb3bf37dc.png)
-Celular
-![1 3-aplica cel](https://user-images.githubusercontent.com/89146258/204673994-0f11e7a9-0520-411e-bc03-225b72f5888b.jpg)
+# Computador
+
+
 
 ## Exemplo em que não se aplica:
