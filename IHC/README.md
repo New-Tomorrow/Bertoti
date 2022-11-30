@@ -19,7 +19,7 @@ Forneça alternativas de texto para qualquer conteúdo que não seja de texto pa
 Forneça alternativas para mídia baseada em tempo.
 
 ## Exemplo em que se aplica:
-![1 2 -aplica](https://user-images.githubusercontent.com/89146258/204673620-3cf18f20-939e-4d88-812f-cd222398fdf0.png)
+![1 2 -aplica](https://user-images.githubusercontent.com/89146258/204677450-7ec29388-6b82-4cfc-8ade-d083f8d10339.png)
 
 
 ## Diretriz 1.3 - Adaptável
