@@ -19,13 +19,20 @@ Forneça alternativas de texto para qualquer conteúdo que não seja de texto pa
 Forneça alternativas para mídia baseada em tempo.
 
 ## Exemplo em que se aplica:
+![1 2 -aplica](https://user-images.githubusercontent.com/89146258/204673620-3cf18f20-939e-4d88-812f-cd222398fdf0.png)
+
 
 ## Exemplo em que não se aplica:
+
 
 ## Diretriz 1.3 - Adaptável
 
 Crie conteúdo que possa ser apresentado de diferentes formas (por exemplo, layout mais simples) sem perder informações ou estrutura.
 
 ## Exemplo em que se aplica:
+Computador
+![1 3-aplica pc](https://user-images.githubusercontent.com/89146258/204673826-517e99d0-ce70-4f22-9f59-7b2cb3bf37dc.png)
+Celular
+![1 3-aplica cel](https://user-images.githubusercontent.com/89146258/204673994-0f11e7a9-0520-411e-bc03-225b72f5888b.jpg)
 
 ## Exemplo em que não se aplica:
