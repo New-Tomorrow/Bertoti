@@ -18,8 +18,8 @@ public class Facade {
        
     }
 
-    public boolean alugarVeiculo(String marca, String modelo, String nomeCliente, String emailCliente) {
-        return controller.alugar(marca, modelo, nomeCliente, emailCliente);
+    public boolean alugarVeiculo(String marca, String modelo, String nomeCliente, String emailCliente, TipoCliente tipoCliente) {
+        return controller.alugar(marca, modelo, nomeCliente, emailCliente, tipoCliente);
     }
 
     public List<Veiculo> obterVeiculosAlugados() {

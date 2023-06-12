@@ -62,7 +62,7 @@ public class View {
         }
     }
 
-    public void alugar() {
+       public void alugar() {
         System.out.println("Informe a marca do veículo:");
         String marca = scanner.next();
         System.out.println("Informe o modelo do veículo:");
@@ -73,13 +73,29 @@ public class View {
         System.out.println("Informe o e-mail do cliente:");
         String emailCliente = scanner.next();
 
-        boolean alugado = controller.alugar(marca, modelo, nomeCliente, emailCliente);
+        System.out.println("Selecione o tipo de cliente:");
+        System.out.println("1. Pessoa Física");
+        System.out.println("2. Pessoa Jurídica");
+        int opcaoTipoCliente = scanner.nextInt();
+
+        TipoCliente tipoCliente;
+        if (opcaoTipoCliente == 1) {
+            tipoCliente = new Fisica();
+        } else if (opcaoTipoCliente == 2) {
+            tipoCliente = new Juridica();
+        } else {
+            System.out.println("Opção inválida.");
+            return;
+        }
+
+        boolean alugado = controller.alugar(marca, modelo, nomeCliente, emailCliente, tipoCliente);
         if (alugado) {
             System.out.println("Veículo alugado com sucesso.");
         } else {
             System.out.println("Não foi possível alugar o veículo.");
         }
     }
+
 
     public void exibirAlugados() {
         List<Veiculo> veiculosAlugados = controller.obterVeiculosAlugados();

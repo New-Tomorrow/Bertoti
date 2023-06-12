@@ -35,11 +35,11 @@ public class Controller {
         return veiculosDisponiveis;
     }
 
-    public boolean alugar(String marca, String modelo, String nomeCliente, String emailCliente) {
+        public boolean alugar(String marca, String modelo, String nomeCliente, String emailCliente, TipoCliente tipoCliente) {
         for (Veiculo veiculo : veiculos) {
             if (veiculo.getMarca().equalsIgnoreCase(marca) && veiculo.getModelo().equalsIgnoreCase(modelo)) {
                 if (veiculo.getDisponivel()) {
-                    Cliente cliente = new Cliente(nomeCliente, emailCliente);
+                    Cliente cliente = new Cliente(nomeCliente, emailCliente, tipoCliente);
                     veiculo.setCliente(cliente);
                     veiculo.setDisponivel(false);
                     veiculosAlugados.add(veiculo);
